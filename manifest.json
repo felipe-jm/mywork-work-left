@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "MyWork Time Left",
+  "version": "1.0",
+  "description": "Shows remaining work hours on MyWork platform",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.mywork.com.br/*", "http://*.mywork.com.br/*"],
+      "js": ["dist/content.js"]
+    }
+  ]
+}
