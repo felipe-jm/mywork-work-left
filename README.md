@@ -1,5 +1,7 @@
 # MyWork Time Left
 
+<img width="1503" alt="image" src="https://github.com/user-attachments/assets/304531b2-a2c3-41c9-af87-79ca569b2201" />
+
 ## Descrição
 
 MyWork Time Left é uma extensão para o Chrome que exibe informações sobre seu tempo de trabalho restante na plataforma MyWork. A extensão analisa a página de registro de ponto e calcula automaticamente quanto tempo falta para completar sua jornada diária de 8 horas.
